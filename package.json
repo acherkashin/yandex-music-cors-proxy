@@ -1,0 +1,14 @@
+{
+  "name": "yandex-music-proxy",
+  "version": "0.0.0",
+  "description": "yandex-music-proxy to bypass CORS",
+  "main": "index.js",
+  "author": "acherkashin",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors-anywhere": "^0.4.4"
+  }
+}
